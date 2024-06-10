@@ -43,3 +43,9 @@ CSVファイルの作成が完了しました。ファイルパス: random_data_
 CSVファイルの作成が完了しました。ファイルパス: random_data_5.csv
 ThreadJobを使用した場合の実行時間: 38.977704秒
 ```
+
+## 参考資料
+
+https://github.com/PaulHigin/ThreadJob
+
+https://blog.shibata.tech/entry/2018/09/05/175647
