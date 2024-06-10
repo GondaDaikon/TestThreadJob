@@ -9,6 +9,8 @@
 3. RunBenchmark.ps1 スクリプトを実行して、非同期処理のパフォーマンスをベンチマークします。
 
 ```powershell
+# ThreadJob モジュールをインポート
+Import-Module -Name ThreadJob -ErrorAction Stop
 .\RunBenchmark.ps1
 ```
 
